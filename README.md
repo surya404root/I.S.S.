@@ -42,7 +42,7 @@ bash iss.sh
 
 ## 🌍 Web Version
 
-
+https://surya404root.github.io/I.S.S./index.html
 
 ---
 
